@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #redis:latest
-pod-infrastructure:latest
+registry.access.redhat.com/rhel7/pod-infrastructure:latest
